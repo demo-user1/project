@@ -4,4 +4,4 @@ files:
   - source: /index.html
     destination: /var/www/html/
 source: /img
-    destination: /var/www/html/
+    destination: /var/www/img/
