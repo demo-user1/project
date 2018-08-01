@@ -3,5 +3,9 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
-source: /img
+    version: 0.0
+os: linux
+files:
+  - source: /img
     destination: /var/www/html/
+
